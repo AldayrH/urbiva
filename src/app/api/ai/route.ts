@@ -1,4 +1,4 @@
-﻿export const runtime = 'nodejs'
+export const runtime = 'nodejs'
 
 const OLLAMA_URL = 'http://127.0.0.1:11434/api/generate'
 const MODEL = 'qwen3.8:latest'
